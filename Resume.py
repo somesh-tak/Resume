@@ -3,7 +3,7 @@ from PIL import Image
 
 st.set_page_config(page_title='Somesh Tak Resume', page_icon='home_with_garden', layout="wide", initial_sidebar_state="auto", menu_items=None)
 
-image=Image.open('Somesh_Tak.JPG')
+# image=Image.open('Somesh_Tak.JPG')
 
 col1, col2=st.columns(2)
 col1.write('# Somesh Tak')
@@ -11,7 +11,7 @@ col1.info('Python-Data Science- Streamlit, Pandas, SQLAlchemy, SQL, Power BI')
 col1.write('##### Contact: +91 99 75 26 89 45')
 col1.write('##### Place: Pune')
 col1.info('Seeking challenging assignments in Analytics, Data Visualization and Financial Analysis')
-col2.image(image, width=250)
+# col2.image(image, width=250)
 
 
 with st.expander('Professional Brief'):
