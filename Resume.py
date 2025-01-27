@@ -1,5 +1,7 @@
 import streamlit as st
 from PIL import Image
+import pandas as pd
+import numpy as np
 
 st.set_page_config(page_title='Somesh Tak Resume', page_icon='home_with_garden', layout="wide", initial_sidebar_state="auto", menu_items=None)
 
