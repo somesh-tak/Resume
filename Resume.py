@@ -36,8 +36,9 @@ with st.expander('Competency Matrix'):
 -   Created packages to automate the workflow in SSIS
 
     ''')
-with st.expander('TCS Professional Summary'):
+with st.expander('Professional Summary'):
     st.write('''
+    ### Tata Consultancy Services                              (Apr'15 - till date)
     ##### Python Data Science & Automation (Citi)- Team Leader ( Jan’ 23 – till date)
     -    Leading team spread across geographies to deliver data analysis for Trade domain
     -    Automated Production Validation process to eliminate human error and reduced time from 2 hours to 2 mins per associate
@@ -78,6 +79,30 @@ with st.expander('TCS Professional Summary'):
     -    Extensively worked on data quality by creating a large number of edit checks using MS-SQL, Procedures and VBA.
     -    Consistently maintained the SLA (99%) since the inception of the project by achieving >99% quality score in mapping and SQL.
     -    Served as a mentor and reviewer to junior specialists in providing training on Process, Monarch, Mortgage, SQL, SSIS, SSRS & VBA.
+    ###  Homeward Residential India Pvt. Ltd., Pune as Business Analyst	(Aug’12-Mar'15)
+    -    Own Daily, Weekly, Monthly and Quarterly Reports of the Company Portfolio Performance which are sent to the top management.
+    -    Created/worked on performance dashboards for Foreclosure and Bankruptcy.
+    -    Extensively worked on Risk management by creating reports on Foreclosure, Bankruptcy and Special Servicing.
+    -    Automated Scheduled reports/Models using excel, VBA & SQL.
+    -    Studied Industry research reports and compared the performance of the firm’s portfolio against the Industry.
+    -    Worked with Rating Agencies like CITI, S&P, Fitch by providing the numbers related to the firm which helps them in rating the firm and the industry.
+    -    Worked on other Ad-hoc Analysis requests from the Senior Management.
+    ###  Synygy India Pvt. Ltd., Pune as Financial Reporting Associate	(Jul’11-Jun’12 )
+    -    Projected & reported revenues on a weekly, monthly, quarterly and yearly basis.
+    -    Analysed and reported:
+        o	Revenue productivity on departmental basis and at company level.
+        o	Expenses at departmental and company level.
+    -    Co-ordinated with different departments to create the accurate reports. 
+    -    Presented reports to Account Executives and Directors on their revenue accounts.
+    -    Helped HR team in recruiting right positions at right location to minimize the cost and lowering attrition by creating accurate reports.
+    -    Helped sales team in improving their productivity by creating accurate and meaningful reports. 
+    -    Optimized the reports by using Macros or other coding techniques.
+    ###  Fountain / Capstone Securities Analysis Pvt. Ltd., Pune/Mumbai as Associate (Proprietary Trader)	(May’09-Jul’11)
+    -    Conducted analysis on trends in securities of DOW and NASDAQ Indices.
+    -    Placed the orders through various Electronic Communication Networks (ECNs) and executed complete trade. 
+    -    Took corrective action by analyzing market and stock condition with proper risk to reward ratio.
+    -    Followed various strategies like hedging and exit strategies to operate the open position.
+
 
     ''')
 with st.expander('Education'):
