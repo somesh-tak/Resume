@@ -16,7 +16,7 @@ col1.info('Seeking challenging assignments in Data Science, Reporting and Busine
 # col2.image(image, width=250)
 
 
-with st.expander('Professional Brief'):
+with st.expander('Professional Brief',expanded=True):
     st.write('''
 -	Seasoned finance professional transitioned into Python Data science, bringing 14 years of analytical expertise and a proven track record of data-driven decision-making.
 -	Hands on experience of Python, SQL, Big Data (Hadoop), PySpark, Oracle and other coding languages.
@@ -27,7 +27,7 @@ with st.expander('Professional Brief'):
 -	Exceptionally well organised with a track record that demonstrates self motivation, creativity, and initiative to achieve both personal & corporate goals.
     ''')
 
-with st.expander('Competency Matrix'):
+with st.expander('Competency Matrix',expanded=True):
     st.write('''
 -   Worked on Python- Pandas, Streamlit, Plotly, SQLAlchemy etc. libraries
 -   Worked on descriptive statistics, analytics and reporting using various tools
@@ -36,7 +36,7 @@ with st.expander('Competency Matrix'):
 -   Created packages to automate the workflow in SSIS
 
     ''')
-with st.expander('Professional Summary'):
+with st.expander('Professional Summary',expanded=True):
     st.write('''
     ### Tata Consultancy Services                              (Apr'15 - till date)
     ##### Python Data Science & Automation (Citi)- Team Leader ( Jan’ 23 – till date)
@@ -105,7 +105,7 @@ with st.expander('Professional Summary'):
 
 
     ''')
-with st.expander('Education'):
+with st.expander('Education',expanded=True):
     st.write('''
     ##### Education
     - MBA (Finance) from ICFAI University in 2009 with CGPA of 6.83.
