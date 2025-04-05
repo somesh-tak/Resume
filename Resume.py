@@ -1,7 +1,6 @@
 import streamlit as st
 from PIL import Image
-# import pandas as pd
-# import numpy as np
+
 
 st.set_page_config(page_title='Somesh Tak Resume', page_icon='home_with_garden', layout="wide", initial_sidebar_state="auto", menu_items=None)
 
@@ -41,13 +40,14 @@ with st.expander('Professional Summary',expanded=True):
     ### Tata Consultancy Services                              (Apr'15 - till date)
     ##### Python Data Science & Automation (Citi)- Team Leader ( Jan’ 23 – till date)
     -    Leading team spread across geographies to deliver data analysis for Trade domain
-    -    Automated Production Validation process to eliminate human error and reduced time from 2 hours to 2 mins per associate
-    -    Created dashboard to show recon of source to destination table ingestion data quality
-    -    Created user interface and automated process of creating data catalogue for ingested table
+    -    Automated Production Validation process to eliminate human error and reduced time from 2 hours to 2 mins per associate using Pandas, Pyspark etc.
+    -    Created dashboard in Python using Streamlit to show recon of source to destination table ingestion data quality
+    -    Created user interface using Streamlit and automated process of creating data catalogue for ingested table using requests, pandas, json module
     -    Implemented and automated data quality checks for table ingestion at source side to avoid downstream impact
     -    Analysed the various production issues, performed RCA and took various steps to avoid them
     -    Worked on regulatory reporting projects for multiple countries
     -    Successfully migrated reports from SAP BO to Python using Pandas, Pyspark OpenPyXL and PyFPDF
+    -    Worked on data lineage and data quality using json, pandas, requests module
     ##### Loan Boarding Automation (Rushmore)- Team Leader ( Jan’ 21 – Sept' 22)
     -    Successfully lead short term fixed priced consulting project using just in time resource allocation
     -    Automated loan boarding process end to end using Python(Streamlit, Pandas, SQL Alchemy, Pyodbc, NumPy libraries) and SQL. 
