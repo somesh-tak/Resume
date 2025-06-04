@@ -118,6 +118,7 @@ with st.expander('Education',expanded=True):
     ### 
     ##### Additional Qualification:
     - Certified Associate Python Programmer (PCAP)
+    - Certified Microsoft Power BI Developer (PL300)
     - Cygnus Certification Course on EIC Analysis and Company Evaluation from Cygnus India in 09.
     - Completed Python-Data Science course from Datalogy \n
 
