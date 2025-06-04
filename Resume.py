@@ -20,6 +20,7 @@ with st.expander('Professional Brief',expanded=True):
 -	Seasoned finance professional transitioned into Python Data science, bringing 14 years of analytical expertise and a proven track record of data-driven decision-making.
 -	Hands on experience of Python, SQL, Big Data (Hadoop), PySpark, Oracle and other coding languages.
 -	Good understanding of Banking and US mortgage industry.
+-   Hands on experience and knowledge in Generative AI, Agentic AI, LLM models
 -	Demonstrated ability to quickly learn organizational processes, workflows, policies & procedures.
 -	Proficient in interacting with multiple levels of organisation, management & staff from different locations. 
 -	Sound in conducting Equity Analysis and Industry Analysis aided by good understanding of capital markets, financial modelling/ forecasting techniques.
@@ -33,6 +34,7 @@ with st.expander('Competency Matrix',expanded=True):
 -   Created and published dashboards using Power BI
 -   Created SQL stored procedures, Functions, Triggers, Cursors etc. and also worked on query optimization to improve performance in MS SQL
 -   Created packages to automate the workflow in SSIS
+-   Worked on Generative AI- Google Gemini, LLM models, Agentic AI applications
 
     ''')
 with st.expander('Professional Summary',expanded=True):
