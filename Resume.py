@@ -17,7 +17,7 @@ col1.info('Seeking challenging assignments in Data Science, Reporting and Busine
 
 with st.expander('Professional Brief',expanded=True):
     st.write('''
--	Seasoned finance professional transitioned into Python Data science, bringing 14 years of analytical expertise and a proven track record of data-driven decision-making.
+-	Seasoned finance professional transitioned into Python Data science, bringing 15 years of analytical expertise and a proven track record of data-driven decision-making.
 -	Hands on experience of Python, SQL, Big Data (Hadoop), PySpark, Oracle and other coding languages.
 -	Good understanding of Banking and US mortgage industry.
 -   Hands on experience and knowledge in Generative AI, Agentic AI, LLM models
