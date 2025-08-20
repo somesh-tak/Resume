@@ -6,7 +6,7 @@ st.set_page_config(page_title='Somesh Tak Resume', page_icon='dashboard', layout
 
 image=Image.open('Somesh T.jpg')
 
-col1, col2, col3=st.columns(2)
+col1, col2, col3=st.columns(3)
 col1.write('# Somesh Tak')
 col1.info('Python-Data Science- Streamlit, Pandas, SQL, Power BI, PySpark')
 col1.write('##### Contact: +91 99 75 26 89 45')
