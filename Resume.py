@@ -12,7 +12,12 @@ col1.info('Python-Data Science- Streamlit, Pandas, SQL, Power BI, PySpark')
 col1.write('##### Contact: +91 99 75 26 89 45')
 col1.write('##### Place: Pune')
 col1.info('Seeking challenging assignments in Data Science, Reporting and Business Analysis with an organisation of repute')
-
+col1.download_button(
+        label="Download Resume",
+        data=PDFbytes,
+        file_name="Somesh Tak Resume.pdf",
+        mime="application/pdf"
+    )
 #col2.image(image)
 with col2:
     sub_col_left, sub_col_center, sub_col_right = st.columns([1, 2, 1]) # Adjust ratios as needed
