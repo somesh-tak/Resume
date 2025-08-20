@@ -17,7 +17,7 @@ with col2:
     sub_col_left, sub_col_center, sub_col_right = st.columns([1, 2, 1]) # Adjust ratios as needed
 
     with sub_col_center:
-        st.image(image, use_column_width=True) # Replace with your image path
+        st.image(image, width=50) # Replace with your image path
 
 
 with st.expander('Professional Brief',expanded=True):
