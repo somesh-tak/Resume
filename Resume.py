@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 
 
-st.set_page_config(page_title='Somesh Tak Resume', page_icon='home_with_garden', layout="wide", initial_sidebar_state="auto", menu_items=None)
+st.set_page_config(page_title='Somesh Tak Resume', page_icon='dashboard', layout="wide", initial_sidebar_state="auto", menu_items=None)
 
 image=Image.open('Somesh T.jpg')
 
