@@ -12,7 +12,7 @@ col1.info('Python-Data Science- Streamlit, Pandas, SQL, Power BI, PySpark')
 col1.write('##### Contact: +91 99 75 26 89 45')
 col1.write('##### Place: Pune')
 col1.info('Seeking challenging assignments in Data Science, Reporting and Business Analysis with an organisation of repute')
-with open("sample.pdf", "rb") as pdf_file:
+with open("Somesh Tak Resume.pdf", "rb") as pdf_file:
         PDFbytes = pdf_file.read()
 col1.download_button(
         label="Download Resume",
