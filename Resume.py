@@ -12,7 +12,7 @@ col1.info('Python-Data Science- Streamlit, Pandas, SQL, Power BI, PySpark')
 col1.write('##### Contact: +91 99 75 26 89 45')
 col1.write('##### Place: Pune')
 col1.info('Seeking challenging assignments in Data Science, Reporting and Business Analysis with an organisation of repute')
-col2.image(image, width=250)
+col2.image(image)
 
 
 with st.expander('Professional Brief',expanded=True):
