@@ -12,12 +12,13 @@ col1.info('Python-Data Science- Streamlit, Pandas, SQL, Power BI, PySpark')
 col1.write('##### Contact: +91 99 75 26 89 45')
 col1.write('##### Place: Pune')
 col1.info('Seeking challenging assignments in Data Science, Reporting and Business Analysis with an organisation of repute')
-col2.image(image)
+
+#col2.image(image)
 with col2:
     sub_col_left, sub_col_center, sub_col_right = st.columns([1, 2, 1]) # Adjust ratios as needed
 
     with sub_col_center:
-        st.image(image, width=50) # Replace with your image path
+        st.image(image) # Replace with your image path
 
 
 with st.expander('Professional Brief',expanded=True):
