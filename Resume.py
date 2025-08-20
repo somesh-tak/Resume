@@ -55,14 +55,15 @@ with st.expander('Professional Summary',expanded=True):
     ### Tata Consultancy Services                              (Apr'15 - till date)
     ##### Python Data Science & Automation (Citi)- Team Leader ( Jan’ 23 – till date)
     -    Leading team spread across geographies to deliver data analysis for Trade domain
-    -    Automated Production Validation process to eliminate human error and reduced time from 2 hours to 2 mins per associate using Pandas, Pyspark etc.
-    -    Created dashboard in Python using Streamlit to show recon of source to destination table ingestion data quality
-    -    Created user interface using Streamlit and automated process of creating data catalogue for ingested table using requests, pandas, json module
-    -    Implemented and automated data quality checks for table ingestion at source side to avoid downstream impact
-    -    Analysed the various production issues, performed RCA and took various steps to avoid them
-    -    Worked on regulatory reporting projects for multiple countries
+    -    Worked on Data Quality Analytics Dashboard using Generative AI
+    -    Automated Production Validation process to eliminate human error and reduced time from 2 hours to 2 mins per associate using Pandas, PySpark etc
+    -    Created dashboard in Python to show recon of source to destination table ingestion data quality
+    -    Created user interface using Streamlit and automated process of creating data catalog for ingested table using requests, pandas, json module
+    -    Implemented and automated data quality checks (recon reports) for table ingestion at source side to avoid downstream impact
+    -    Worked on regulatory reporting projects for multiple countries using Bigdata
     -    Successfully migrated reports from SAP BO to Python using Pandas, Pyspark OpenPyXL and PyFPDF
-    -    Worked on data lineage and data quality using json, pandas, requests module
+    -    Worked on model data lineage using json, pandas, requests module
+Captured data lineage of Java UI application using Python
     ##### Loan Boarding Automation (Rushmore)- Team Leader ( Jan’ 21 – Sept' 22)
     -    Successfully lead short term fixed priced consulting project using just in time resource allocation
     -    Automated loan boarding process end to end using Python(Streamlit, Pandas, SQL Alchemy, Pyodbc, NumPy libraries) and SQL. 
