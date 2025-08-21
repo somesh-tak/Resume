@@ -27,8 +27,20 @@ with col2:
     with sub_col_center:
         st.image(image) # Replace with your image path
 
-
-with st.expander('Professional Brief',expanded=True):
+custom_css = """
+    <style>
+    .streamlit-expanderHeader {
+        background-color: #f0f2f6; /* Light gray background for header */
+        color: black;
+    }
+    .streamlit-expanderContent {
+        background-color: #e0e2e6; /* Slightly darker gray for content */
+        color: black;
+    }
+    </style>
+    """
+st.markdown(custom_css, unsafe_allow_html=True)
+with st.expander('Professional Brief',expanded=False):
     st.write('''
 -	Seasoned finance professional transitioned into Python Data science, bringing 15 years of analytical expertise and a proven track record of data-driven decision-making.
 -	Hands on experience of Python, SQL, Big Data (Hadoop), PySpark, Oracle and other coding languages.
@@ -40,7 +52,7 @@ with st.expander('Professional Brief',expanded=True):
 -	Exceptionally well organised with a track record that demonstrates self motivation, creativity, and initiative to achieve both personal & corporate goals.
     ''')
 
-with st.expander('Competency Matrix',expanded=True):
+with st.expander('Competency Matrix',expanded=False):
     st.write('''
 -   Worked on Python- Pandas, Streamlit, Plotly, SQLAlchemy etc. libraries
 -   Worked on descriptive statistics, analytics and reporting using various tools
@@ -50,7 +62,7 @@ with st.expander('Competency Matrix',expanded=True):
 -   Worked on Generative AI- Google Gemini, LLM models, Agentic AI applications
 
     ''')
-with st.expander('Professional Summary',expanded=True):
+with st.expander('Professional Summary',expanded=False):
     st.write('''
     ### Tata Consultancy Services                              (Apr'15 - till date)
     ##### Python Data Science & Automation (Citi)- Team Leader ( Jan’ 23 – till date)
@@ -124,7 +136,7 @@ with st.expander('Professional Summary',expanded=True):
 
 
     ''')
-with st.expander('Education',expanded=True):
+with st.expander('Education',expanded=False):
     st.write('''
     ##### Education
     - MBA (Finance) from ICFAI University in 2009 with CGPA of 6.83.
