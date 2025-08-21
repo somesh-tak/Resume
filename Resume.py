@@ -18,7 +18,8 @@ col1.download_button(
         label="Download Resume",
         data=PDFbytes,
         file_name="Somesh Tak Resume.pdf",
-        mime="application/pdf"
+        mime="application/pdf",
+        icon="⬇️"
     )
 #col2.image(image)
 with col2:
