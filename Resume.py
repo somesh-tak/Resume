@@ -62,8 +62,8 @@ with st.expander('Professional Summary',expanded=True):
     -    Implemented and automated data quality checks (recon reports) for table ingestion at source side to avoid downstream impact
     -    Worked on regulatory reporting projects for multiple countries using Bigdata
     -    Successfully migrated reports from SAP BO to Python using Pandas, Pyspark OpenPyXL and PyFPDF
-    -    Worked on model data lineage using json, pandas, requests module
-Captured data lineage of Java UI application using Python
+    -    Worked on model data lineage using json, pandas, requests module 
+    -    Captured data lineage of Java UI application using Python
     ##### Loan Boarding Automation (Rushmore)- Team Leader ( Jan’ 21 – Sept' 22)
     -    Successfully lead short term fixed priced consulting project using just in time resource allocation
     -    Automated loan boarding process end to end using Python(Streamlit, Pandas, SQL Alchemy, Pyodbc, NumPy libraries) and SQL. 
@@ -77,7 +77,7 @@ Captured data lineage of Java UI application using Python
     - Developed SQL stored procedures, functions catering to different business needs
     - Developed data quality dashboards in Power BI to show data quality, exceptions, monthly trend for senior management, provided drill down functionalities as well for business use.
     - Developed Power BI dashboards for various business KPI for business teams.
-    ### 
+    
     ##### Risk Reporting & Analytics (Mr. Cooper)- Team Leader (Apr’ 18 – Dec’ 20)
     -    Helped and developed methods to quantify enterprise & operational risk.
     -    Helped and developed Key Risk Indicators (KRI) in mortgage originations and servicing process.
@@ -88,6 +88,7 @@ Captured data lineage of Java UI application using Python
     -    Helped other teams to bring efficiency and streamline the processes, provided training on mortgage processes.
     -    Worked on Ad-hoc Analysis requests from the Senior Management with time constraints
     ### 
+    
     ##### Servicing Acquisition (Mr. Cooper)- Team Leader (Apr’ 15 – Mar’ 18)
     -    Developed stored procedures, functions, views, Cursors, etc. in Microsoft SQL./CVEDY
     -    Automated and optimized the process by eliminating repeated and manual steps using SQL, SSIS packages, Excel and VBA Macros.
@@ -95,6 +96,7 @@ Captured data lineage of Java UI application using Python
     -    Extensively worked on data quality by creating a large number of edit checks using MS-SQL, Procedures and VBA.
     -    Consistently maintained the SLA (99%) since the inception of the project by achieving >99% quality score in mapping and SQL.
     -    Served as a mentor and reviewer to junior specialists in providing training on Process, Monarch, Mortgage, SQL, SSIS, SSRS & VBA.
+    
     ###  Homeward Residential India Pvt. Ltd., Pune as Business Analyst	(Aug’12-Mar'15)
     -    Own Daily, Weekly, Monthly and Quarterly Reports of the Company Portfolio Performance which are sent to the top management.
     -    Created/worked on performance dashboards for Foreclosure and Bankruptcy.
@@ -113,6 +115,7 @@ Captured data lineage of Java UI application using Python
     -    Helped HR team in recruiting right positions at right location to minimize the cost and lowering attrition by creating accurate reports.
     -    Helped sales team in improving their productivity by creating accurate and meaningful reports. 
     -    Optimized the reports by using Macros or other coding techniques.
+    
     ###  Fountain / Capstone Securities Analysis Pvt. Ltd., Pune/Mumbai as Associate (Proprietary Trader)	(May’09-Jul’11)
     -    Conducted analysis on trends in securities of DOW and NASDAQ Indices.
     -    Placed the orders through various Electronic Communication Networks (ECNs) and executed complete trade. 
@@ -128,15 +131,14 @@ with st.expander('Education',expanded=True):
     - B.Tech. (Computer Engineering) from Dr. B.A.T. University, Lonere in 2007 with 61.12%.
     - 12th from Maharashtra State Board in 2003 with 80.33% marks.       
     - 10th from Maharashtra State Board in 2001 with 88.80% marks.  \n     
-    
-    ### 
+
     ##### Additional Qualification:
     - Certified Associate Python Programmer (PCAP)
     - Certified Microsoft Power BI Developer (PL300)
     - Cygnus Certification Course on EIC Analysis and Company Evaluation from Cygnus India in 09.
     - Completed Python-Data Science course from Datalogy \n
 
-    ### 
+
     ##### IT Skills:
     - Well versed with Python, SQL, Microsoft Office, Power BI, R, SPSS, Oracle, MicroStrategy and other useful Tools & Internet Applications
     ''')    
